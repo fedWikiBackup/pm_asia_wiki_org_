@@ -1,0 +1,39 @@
+{
+  "title": "Difficulties",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6d8731a270bd6d51",
+      "text": "Recently, you complete rewrite of wiki as a single page application with a distributed database. What are the difficulties to let people accept federated wiki? (Could you talk about the technical part and non-technical part.)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Difficulties",
+        "story": []
+      },
+      "date": 1427810868205
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d8731a270bd6d51"
+      },
+      "id": "6d8731a270bd6d51",
+      "type": "add",
+      "date": 1427810879373
+    },
+    {
+      "type": "edit",
+      "id": "6d8731a270bd6d51",
+      "item": {
+        "type": "paragraph",
+        "id": "6d8731a270bd6d51",
+        "text": "Recently, you complete rewrite of wiki as a single page application with a distributed database. What are the difficulties to let people accept federated wiki? (Could you talk about the technical part and non-technical part.)"
+      },
+      "date": 1427810900127
+    }
+  ]
+}
