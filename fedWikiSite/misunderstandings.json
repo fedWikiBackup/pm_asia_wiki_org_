@@ -1,0 +1,39 @@
+{
+  "title": "Misunderstandings",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e7f2620cffb04146",
+      "text": "Do you see some myths or misunderstandings when people talk about Wiki?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Misunderstandings",
+        "story": []
+      },
+      "date": 1427810914345
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e7f2620cffb04146"
+      },
+      "id": "e7f2620cffb04146",
+      "type": "add",
+      "date": 1427810919209
+    },
+    {
+      "type": "edit",
+      "id": "e7f2620cffb04146",
+      "item": {
+        "type": "paragraph",
+        "id": "e7f2620cffb04146",
+        "text": "Do you see some myths or misunderstandings when people talk about Wiki?"
+      },
+      "date": 1427810922702
+    }
+  ]
+}
