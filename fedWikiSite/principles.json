@@ -1,0 +1,39 @@
+{
+  "title": "Principles",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f2e994e969c9ce90",
+      "text": "This month Wiki is 20 years old, the concept and methods that people using this system seems very stable and didn’t change a lot. When you designed the system, what principles you were following?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Principles",
+        "story": []
+      },
+      "date": 1427810711385
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f2e994e969c9ce90"
+      },
+      "id": "f2e994e969c9ce90",
+      "type": "add",
+      "date": 1427810713078
+    },
+    {
+      "type": "edit",
+      "id": "f2e994e969c9ce90",
+      "item": {
+        "type": "paragraph",
+        "id": "f2e994e969c9ce90",
+        "text": "This month Wiki is 20 years old, the concept and methods that people using this system seems very stable and didn’t change a lot. When you designed the system, what principles you were following?"
+      },
+      "date": 1427810716923
+    }
+  ]
+}
