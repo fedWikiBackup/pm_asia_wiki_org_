@@ -1,0 +1,39 @@
+{
+  "title": "Lessons",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bfa63c2f7c5524ed",
+      "text": "What are the main lessons you have learned in the past 20 years of your professional career after Wiki was born? Have you ever made any mistake?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lessons",
+        "story": []
+      },
+      "date": 1427810647237
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bfa63c2f7c5524ed"
+      },
+      "id": "bfa63c2f7c5524ed",
+      "type": "add",
+      "date": 1427810649381
+    },
+    {
+      "type": "edit",
+      "id": "bfa63c2f7c5524ed",
+      "item": {
+        "type": "paragraph",
+        "id": "bfa63c2f7c5524ed",
+        "text": "What are the main lessons you have learned in the past 20 years of your professional career after Wiki was born? Have you ever made any mistake?"
+      },
+      "date": 1427810669762
+    }
+  ]
+}
