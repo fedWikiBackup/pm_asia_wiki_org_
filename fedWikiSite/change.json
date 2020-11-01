@@ -1,0 +1,185 @@
+{
+  "title": "Change",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7d01bfbceda530f0",
+      "text": "Comparing how you think about programming now with how you thought when you were starting out, what is the biggest change in your thinking?"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f6b3cceb6d4234d",
+      "text": "My career has progressed through phases that I only recognized when I set out to remember every program I ever wrote. See [[Coding Portfolio]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "84d214227f491bc0",
+      "text": "Acquiring Mastery Phase: As a student, my programs were mostly about abstractions and representing those abstractions. Hoever, they were not complete until I had shown them to my friends."
+    },
+    {
+      "type": "paragraph",
+      "id": "dfb41d473dc094d0",
+      "text": "Sharing the Knowledge Phase:\nI left research to work for hire. This established bounds and a different sort of expectation. But I always felt entitled to create outside the bounds when it served the greater goals of a project."
+    },
+    {
+      "type": "paragraph",
+      "id": "93bddf092860a9da",
+      "text": "Distinguished Positions Phase:\nI continue to code in many languages. Programming has never been easier but we still find ways to make it hard. My reputation opens doors but my chosen medium, programming, confuses those who invite me in."
+    },
+    {
+      "type": "paragraph",
+      "id": "bc1ba8c495b1ce63",
+      "text": "Some of the most important changes in the field are of my own doing. I noticed many small mistakes in how we thought of programming. These compounded and made it hard to correct any one. I set out to change them all with the help of many. See [[Becoming an Activist]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7e10ff4f211758fb",
+      "text": "I meet people who feel that programming has already left them behind even at half my age. I remind them that the latest technology may seem like the same old thing with the names changed just to confuse but that there are new things and their job is to find them and show how old problems are transformed and new problems now have solutions within reach."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Change",
+        "story": []
+      },
+      "date": 1427809338748
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d01bfbceda530f0"
+      },
+      "id": "7d01bfbceda530f0",
+      "type": "add",
+      "date": 1427809351192
+    },
+    {
+      "type": "edit",
+      "id": "7d01bfbceda530f0",
+      "item": {
+        "type": "paragraph",
+        "id": "7d01bfbceda530f0",
+        "text": "Comparing how you think about programming now with how you thought when you were starting out, what is the biggest change in your thinking?"
+      },
+      "date": 1427809356566
+    },
+    {
+      "type": "add",
+      "id": "9f6b3cceb6d4234d",
+      "item": {
+        "type": "paragraph",
+        "id": "9f6b3cceb6d4234d",
+        "text": "My career has progressed through phases that I only recognized when I set out to remember every program I ever wrote."
+      },
+      "after": "7d01bfbceda530f0",
+      "date": 1428102490758
+    },
+    {
+      "type": "add",
+      "id": "84d214227f491bc0",
+      "item": {
+        "type": "paragraph",
+        "id": "84d214227f491bc0",
+        "text": "Acquiring Mastery Phase: As a student, my programs were mostly about abstractions and representing those abstractions. Hoever, they were not complete until I had shown them to my friends."
+      },
+      "after": "9f6b3cceb6d4234d",
+      "date": 1428102556004
+    },
+    {
+      "type": "add",
+      "id": "dfb41d473dc094d0",
+      "item": {
+        "type": "paragraph",
+        "id": "dfb41d473dc094d0",
+        "text": "Sharing the Knowledge Phase:\nI left university and research to work for hire. This established bounds and a different sort of expectation. But I always felt entitled to create outside the bounds when it served the greater goals of a project."
+      },
+      "after": "84d214227f491bc0",
+      "date": 1428102725642
+    },
+    {
+      "type": "edit",
+      "id": "dfb41d473dc094d0",
+      "item": {
+        "type": "paragraph",
+        "id": "dfb41d473dc094d0",
+        "text": "Sharing the Knowledge Phase:\nI left research to work for hire. This established bounds and a different sort of expectation. But I always felt entitled to create outside the bounds when it served the greater goals of a project."
+      },
+      "date": 1428102740150
+    },
+    {
+      "type": "add",
+      "id": "93bddf092860a9da",
+      "item": {
+        "type": "paragraph",
+        "id": "93bddf092860a9da",
+        "text": "Distinguished Positions Phase:\nI continue to code in many languages. Programming has never been easier but we still find ways to make it hard. My reputation opens doors but my chosen medium, programming, confuses those who invite me in."
+      },
+      "after": "dfb41d473dc094d0",
+      "date": 1428102902365
+    },
+    {
+      "type": "edit",
+      "id": "9f6b3cceb6d4234d",
+      "item": {
+        "type": "paragraph",
+        "id": "9f6b3cceb6d4234d",
+        "text": "My career has progressed through phases that I only recognized when I set out to remember every program I ever wrote. See [[Coding Portfolio]]"
+      },
+      "date": 1428102943018
+    },
+    {
+      "type": "add",
+      "id": "7e10ff4f211758fb",
+      "item": {
+        "type": "paragraph",
+        "id": "7e10ff4f211758fb",
+        "text": "I meet people who feel that programming has already left them behind even at half my age. I remind them that the latest technology may seem like the same old thing with the names changed just to confuse but that there are new things and their job is to find them and show how old problems are transformed and new problems now have solutions within reach."
+      },
+      "after": "93bddf092860a9da",
+      "date": 1428103130489
+    },
+    {
+      "type": "add",
+      "id": "bc1ba8c495b1ce63",
+      "item": {
+        "type": "paragraph",
+        "id": "bc1ba8c495b1ce63",
+        "text": "Some of the most important changes in the field are of my own doing."
+      },
+      "after": "93bddf092860a9da",
+      "date": 1428103234056
+    },
+    {
+      "type": "edit",
+      "id": "bc1ba8c495b1ce63",
+      "item": {
+        "type": "paragraph",
+        "id": "bc1ba8c495b1ce63",
+        "text": "Some of the most important changes in the field are of my own doing. I noticed many small mistakes in how we thought of programming. These compounded and made it hard to correct any one. I set out to change them all."
+      },
+      "date": 1428103440519
+    },
+    {
+      "type": "edit",
+      "id": "bc1ba8c495b1ce63",
+      "item": {
+        "type": "paragraph",
+        "id": "bc1ba8c495b1ce63",
+        "text": "Some of the most important changes in the field are of my own doing. I noticed many small mistakes in how we thought of programming. These compounded and made it hard to correct any one. I set out to change them all. See [[Becoming an Activist]]"
+      },
+      "date": 1428103490210
+    },
+    {
+      "type": "edit",
+      "id": "bc1ba8c495b1ce63",
+      "item": {
+        "type": "paragraph",
+        "id": "bc1ba8c495b1ce63",
+        "text": "Some of the most important changes in the field are of my own doing. I noticed many small mistakes in how we thought of programming. These compounded and made it hard to correct any one. I set out to change them all with the help of many. See [[Becoming an Activist]]"
+      },
+      "date": 1428103513184
+    }
+  ]
+}

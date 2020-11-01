@@ -1,0 +1,39 @@
+{
+  "title": "Migrating",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ffadd9bb7e882db9",
+      "text": "You said “I’ve been wondering for a long time about how my original wiki might outlive me. Now I know. The best parts will migrate into the federated wiki and the rest frozen or discarded.” Why do you think this is important for Wiki? What is will bring to us in the future?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Migrating",
+        "story": []
+      },
+      "date": 1427810829960
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ffadd9bb7e882db9"
+      },
+      "id": "ffadd9bb7e882db9",
+      "type": "add",
+      "date": 1427810831402
+    },
+    {
+      "type": "edit",
+      "id": "ffadd9bb7e882db9",
+      "item": {
+        "type": "paragraph",
+        "id": "ffadd9bb7e882db9",
+        "text": "You said “I’ve been wondering for a long time about how my original wiki might outlive me. Now I know. The best parts will migrate into the federated wiki and the rest frozen or discarded.” Why do you think this is important for Wiki? What is will bring to us in the future?"
+      },
+      "date": 1427810856917
+    }
+  ]
+}

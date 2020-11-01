@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "becoming-an-activist",
+    "title": "Becoming an Activist",
+    "date": 1420950114968,
+    "synopsis": "In the '80s I became aware that my research offered a better way to program. So I set out to change the world. See [[Live the Story]] for my experience in patterns."
+  },
+  {
+    "slug": "change",
+    "title": "Change",
+    "date": 1428103513184,
+    "synopsis": "Comparing how you think about programming now with how you thought when you were starting out, what is the biggest change in your thinking?"
+  },
+  {
+    "slug": "coding-portfolio",
+    "title": "Coding Portfolio",
+    "date": 1420381880207,
+    "synopsis": "A list of programs I've written and now recall. There are lots, organized first by where I was."
+  },
+  {
+    "slug": "design",
+    "title": "Design",
+    "date": 1427810694262,
+    "synopsis": "Could you share some stories behind you initially design Wiki? What is the most difficult part and which part you put most of your effort in?"
+  },
+  {
+    "slug": "differently",
+    "title": "Differently",
+    "date": 1427810800023,
+    "synopsis": "If you were to have an opportunity to redesign Wiki knowing what you know today, would there be any difference?"
+  },
+  {
+    "slug": "difficulties",
+    "title": "Difficulties",
+    "date": 1427810900127,
+    "synopsis": "Recently, you complete rewrite of wiki as a single page application with a distributed database. What are the difficulties to let people accept federated wiki? (Could you talk about the technical part and non-technical part.)"
+  },
+  {
+    "slug": "focusing",
+    "title": "Focusing",
+    "date": 1427808886515,
+    "synopsis": "We all know that you are the creator of Wiki, a pioneer in design patterns and extreme programming. Where are you focusing your efforts these days? Why do you think these areas/questions are important?"
+  },
+  {
+    "slug": "influence",
+    "title": "Influence",
+    "date": 1428105597107,
+    "synopsis": "Which person and book influence you most? Why?"
+  },
+  {
+    "slug": "lessons",
+    "title": "Lessons",
+    "date": 1427810669762,
+    "synopsis": "What are the main lessons you have learned in the past 20 years of your professional career after Wiki was born? Have you ever made any mistake?"
+  },
+  {
+    "slug": "migrating",
+    "title": "Migrating",
+    "date": 1427810856917,
+    "synopsis": "You said “I’ve been wondering for a long time about how my original wiki might outlive me. Now I know. The best parts will migrate into the federated wiki and the rest frozen or discarded.” Why do you think this is important for Wiki? What is will bring to us in the future?"
+  },
+  {
+    "slug": "misunderstandings",
+    "title": "Misunderstandings",
+    "date": 1427810922702,
+    "synopsis": "Do you see some myths or misunderstandings when people talk about Wiki?"
+  },
+  {
+    "slug": "principles",
+    "title": "Principles",
+    "date": 1427810716923,
+    "synopsis": "This month Wiki is 20 years old, the concept and methods that people using this system seems very stable and didn’t change a lot. When you designed the system, what principles you were following?"
+  },
+  {
+    "slug": "process",
+    "title": "Process",
+    "date": 1427857909206,
+    "synopsis": "When designing a software system, which process will you use? (like the fist step, the second step ect.)"
+  },
+  {
+    "slug": "programmer-magazine-interview",
+    "title": "Programmer Magazine Interview",
+    "date": 1427812554766,
+    "synopsis": "Today is Wiki's 20th anniversary, I really hope could write your story in our Hall of Fame column which features coding and computer science masters monthly."
+  },
+  {
+    "slug": "ward-cunningham",
+    "title": "Ward Cunningham",
+    "date": 1427811481690,
+    "synopsis": "I have been interviewed many times. I appreciate thoughtful questions and try my best to respond in kind. These days I mostly write in wiki and will do so for the [[Programmer Magazine Interview]] hosted on this site."
+  },
+  {
+    "slug": "welcome-visitors",
+    "title": "Welcome Visitors",
+    "date": 1427812466956,
+    "synopsis": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "title": "Focusing",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "023fff7b89b7781b",
+      "text": "We all know that you are the creator of Wiki, a pioneer in design patterns and extreme programming. Where are you focusing your efforts these days? Why do you think these areas/questions are important?"
+    },
+    {
+      "type": "paragraph",
+      "id": "882599f43017c813",
+      "text": "I'm working in an area that I would call instrumentation. I started my career applying computer systems thinking to electrical instruments. Now, many years later, I apply computer systems thinking to computer instrumentation."
+    },
+    {
+      "type": "paragraph",
+      "id": "6da1b7ae802b756e",
+      "text": "I'm fascinated by how we as engineers and scientists come to understand things though measurements. What can be measured? What is easily measured? How do we interpret the measurements we make? How will knowing from measurement change what we do next?"
+    },
+    {
+      "type": "paragraph",
+      "id": "45245b1e1ab0f229",
+      "text": "My recent work has involved developing and testing the instruments we use to measure software. I work with various teams all with this goal. I find a lot of satisfaction creating datasets that appear to have come from real systems. We use these to test new instruments. When I write a program to create a dataset I feel close to both the systems of interest and the instrumentation we're building to observe them."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Focusing",
+        "story": []
+      },
+      "date": 1427807307830
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "023fff7b89b7781b"
+      },
+      "id": "023fff7b89b7781b",
+      "type": "add",
+      "date": 1427807320455
+    },
+    {
+      "type": "edit",
+      "id": "023fff7b89b7781b",
+      "item": {
+        "type": "paragraph",
+        "id": "023fff7b89b7781b",
+        "text": "We all know that you are the creator of Wiki, a pioneer in design patterns and extreme programming. Where are you focusing your efforts these days? Why do you think these areas/questions are important?"
+      },
+      "date": 1427807326350
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "882599f43017c813"
+      },
+      "id": "882599f43017c813",
+      "type": "add",
+      "after": "023fff7b89b7781b",
+      "date": 1427807577097
+    },
+    {
+      "type": "edit",
+      "id": "882599f43017c813",
+      "item": {
+        "type": "paragraph",
+        "id": "882599f43017c813",
+        "text": "I'm working in an area that I would call instrumentation. I started my career applying computer systems thinking to electrical instruments. Now, many years later, I apply computer systems thinking to computer instrumentation."
+      },
+      "date": 1427807766675
+    },
+    {
+      "type": "add",
+      "id": "6da1b7ae802b756e",
+      "item": {
+        "type": "paragraph",
+        "id": "6da1b7ae802b756e",
+        "text": "I'm fascinated by how we as engineers and scientists come to understand things though measurements. What can be measured? What is easily measured? How do we interpret the measurements we make? How will knowing from measurement change what we do next?"
+      },
+      "after": "882599f43017c813",
+      "date": 1427808479934
+    },
+    {
+      "type": "add",
+      "id": "45245b1e1ab0f229",
+      "item": {
+        "type": "paragraph",
+        "id": "45245b1e1ab0f229",
+        "text": "My recent work has involved developing and testing the instruments we use to measure software. I work with various teams all with this goal. I find a lot of satisfaction creating datasets that appear to have come from real systems. We use these to test new instruments. When I write a program to create a dataset I feel close to both the systems of interest and the instrumentation we're building to observe them."
+      },
+      "after": "6da1b7ae802b756e",
+      "date": 1427808886515
+    }
+  ]
+}

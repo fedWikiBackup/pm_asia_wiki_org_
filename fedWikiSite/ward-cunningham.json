@@ -1,0 +1,96 @@
+{
+  "title": "Ward Cunningham",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6c3914ee2f3bda6d",
+      "text": "I have been interviewed many times. I appreciate thoughtful questions and try my best to respond in kind. These days I mostly write in wiki and will do so for the [[Programmer Magazine Interview]] hosted on this site."
+    },
+    {
+      "type": "paragraph",
+      "id": "0109e837490f4459",
+      "text": "I was once interviewed via Google Wave. The questions were personal and still respectful. I enjoyed the process. The medium seemed especially good for interacting asynchronously. This has been lost, of course."
+    },
+    {
+      "type": "reference",
+      "id": "0812ade0acfbd22d",
+      "site": "ward.fed.wiki.org",
+      "slug": "ward-cunningham",
+      "title": "Ward Cunningham",
+      "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ward Cunningham",
+        "story": []
+      },
+      "date": 1427811032824
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6c3914ee2f3bda6d"
+      },
+      "id": "6c3914ee2f3bda6d",
+      "type": "add",
+      "date": 1427811055644
+    },
+    {
+      "type": "edit",
+      "id": "6c3914ee2f3bda6d",
+      "item": {
+        "type": "paragraph",
+        "id": "6c3914ee2f3bda6d",
+        "text": "I have been interviewed many times. I appreciate thoughtful questions and try my best to respond in kind. These days I mostly write in wiki and will do so for the [[Programmer Magazine Interview]] hosted on this site."
+      },
+      "date": 1427811207542
+    },
+    {
+      "type": "add",
+      "id": "0109e837490f4459",
+      "item": {
+        "type": "paragraph",
+        "id": "0109e837490f4459",
+        "text": "I was once interviewed via Google Wave. The medium seemed especially good for interacting asynchronously. This has been lost, of course."
+      },
+      "after": "6c3914ee2f3bda6d",
+      "date": 1427811324903
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0812ade0acfbd22d"
+      },
+      "id": "0812ade0acfbd22d",
+      "type": "add",
+      "after": "0109e837490f4459",
+      "date": 1427811364373
+    },
+    {
+      "type": "edit",
+      "id": "0812ade0acfbd22d",
+      "item": {
+        "type": "reference",
+        "id": "0812ade0acfbd22d",
+        "site": "ward.fed.wiki.org",
+        "slug": "ward-cunningham",
+        "title": "Ward Cunningham",
+        "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+      },
+      "date": 1427811373142
+    },
+    {
+      "type": "edit",
+      "id": "0109e837490f4459",
+      "item": {
+        "type": "paragraph",
+        "id": "0109e837490f4459",
+        "text": "I was once interviewed via Google Wave. The questions were personal and still respectful. I enjoyed the process. The medium seemed especially good for interacting asynchronously. This has been lost, of course."
+      },
+      "date": 1427811481690
+    }
+  ]
+}

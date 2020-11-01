@@ -1,0 +1,49 @@
+{
+  "title": "Differently",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6f5bdff4fceb5114",
+      "text": "If you were to have an opportunity to redesign Wiki knowing what you know today, would there be any difference?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Differently",
+        "story": []
+      },
+      "date": 1427810738803
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f5bdff4fceb5114"
+      },
+      "id": "6f5bdff4fceb5114",
+      "type": "add",
+      "date": 1427810741106
+    },
+    {
+      "type": "edit",
+      "id": "6f5bdff4fceb5114",
+      "item": {
+        "type": "paragraph",
+        "id": "6f5bdff4fceb5114",
+        "text": "If you were to have an opportunity to redesign Wiki today, will there be any difference?"
+      },
+      "date": 1427810769579
+    },
+    {
+      "type": "edit",
+      "id": "6f5bdff4fceb5114",
+      "item": {
+        "type": "paragraph",
+        "id": "6f5bdff4fceb5114",
+        "text": "If you were to have an opportunity to redesign Wiki knowing what you know today, would there be any difference?"
+      },
+      "date": 1427810800023
+    }
+  ]
+}

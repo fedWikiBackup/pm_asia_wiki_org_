@@ -1,0 +1,174 @@
+{
+  "title": "Process",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e858e6c66c5b71c8",
+      "text": "When designing a software system, which process will you use? (like the fist step, the second step ect.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "f151be0d9a34dfbe",
+      "text": "I have been [[Focusing]] my work on understanding software systems and especially systems used to understand other software systems."
+    },
+    {
+      "type": "paragraph",
+      "id": "27e373344350f586",
+      "text": "I work for a growing public company experiencing change in both its size and the size of its customers. Much of my work begins by understanding how this growth changes our available approachs to software."
+    },
+    {
+      "type": "paragraph",
+      "id": "8ad7769eeb7a6c7e",
+      "text": "I look for recognized needs that might seem far enough off that they are unlikely to become a top priority for daily development. Or I look for efforts that once seemed important but have been abandoned to address more pressing problems."
+    },
+    {
+      "type": "paragraph",
+      "id": "808efe2d69695799",
+      "text": "I explore a space by writing what would be called \"spike solutions\" in extreme programming. I might explore a problem by writing a series of spikes only to find on the third or fourth spike what makes good solutions elusive. This becomes a new problem to be solved."
+    },
+    {
+      "type": "paragraph",
+      "id": "0b28517052f2a6ab",
+      "text": "I work with others, sometimes pairing, so that small discoveries can be shared with little ceremony. With each small success I look for who might own the larger project that could spin out from the work I do."
+    },
+    {
+      "type": "paragraph",
+      "id": "8386991f1451d136",
+      "text": "Our developers might describe our methods a \"post agile\" meaning that they know many agile practices and are quick to apply what they know will probably work in any given situation. I'm happy that this happens without any coaching from me."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Process",
+        "story": []
+      },
+      "date": 1427809052569
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e858e6c66c5b71c8"
+      },
+      "id": "e858e6c66c5b71c8",
+      "type": "add",
+      "date": 1427809077468
+    },
+    {
+      "type": "edit",
+      "id": "e858e6c66c5b71c8",
+      "item": {
+        "type": "paragraph",
+        "id": "e858e6c66c5b71c8",
+        "text": "When designing a software system, which process you will use? (like the fist step, the second step ect.)"
+      },
+      "date": 1427809086130
+    },
+    {
+      "type": "edit",
+      "id": "e858e6c66c5b71c8",
+      "item": {
+        "type": "paragraph",
+        "id": "e858e6c66c5b71c8",
+        "text": "When designing a software system, which process will you use? (like the fist step, the second step ect.)"
+      },
+      "date": 1427809130055
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f151be0d9a34dfbe"
+      },
+      "id": "f151be0d9a34dfbe",
+      "type": "add",
+      "after": "e858e6c66c5b71c8",
+      "date": 1427856172054
+    },
+    {
+      "type": "edit",
+      "id": "f151be0d9a34dfbe",
+      "item": {
+        "type": "paragraph",
+        "id": "f151be0d9a34dfbe",
+        "text": "I have been [[Focusing]] my work on understanding software systems and especially systems used to understand other software systems."
+      },
+      "date": 1427856406580
+    },
+    {
+      "type": "add",
+      "id": "27e373344350f586",
+      "item": {
+        "type": "paragraph",
+        "id": "27e373344350f586",
+        "text": "I work for a growing public company experiencing change in both its size and the size of customers. Much of my work begins by understanding how this changes our approach to software."
+      },
+      "after": "f151be0d9a34dfbe",
+      "date": 1427856533577
+    },
+    {
+      "type": "add",
+      "id": "8ad7769eeb7a6c7e",
+      "item": {
+        "type": "paragraph",
+        "id": "8ad7769eeb7a6c7e",
+        "text": "I look for recognized needs that might seem far enough off that they are unlikely to become a top priority for daily development. Or I look for efforts that once seemed important but have been abandoned to address more pressing problems."
+      },
+      "after": "27e373344350f586",
+      "date": 1427856761346
+    },
+    {
+      "type": "add",
+      "id": "808efe2d69695799",
+      "item": {
+        "type": "paragraph",
+        "id": "808efe2d69695799",
+        "text": "I explore a space by writing what would be called \"spike solutions\" in extreme programming. I might explore a problem by writing a series of spikes only to find on the third or fourth spike what makes good solutions elusive. This becomes a new problem to be solved."
+      },
+      "after": "8ad7769eeb7a6c7e",
+      "date": 1427856933212
+    },
+    {
+      "type": "edit",
+      "id": "27e373344350f586",
+      "item": {
+        "type": "paragraph",
+        "id": "27e373344350f586",
+        "text": "I work for a growing public company experiencing change in both its size and the size of its customers. Much of my work begins by understanding how this changes our approach to software."
+      },
+      "date": 1427856981589
+    },
+    {
+      "type": "edit",
+      "id": "27e373344350f586",
+      "item": {
+        "type": "paragraph",
+        "id": "27e373344350f586",
+        "text": "I work for a growing public company experiencing change in both its size and the size of its customers. Much of my work begins by understanding how this growth changes our available approachs to software."
+      },
+      "date": 1427857003041
+    },
+    {
+      "type": "add",
+      "id": "0b28517052f2a6ab",
+      "item": {
+        "type": "paragraph",
+        "id": "0b28517052f2a6ab",
+        "text": "I work with others, sometimes pairing, so that small discoveries can be shared with little ceremony. With each small success I look for who might own the larger project that could spin out from the work I do."
+      },
+      "after": "808efe2d69695799",
+      "date": 1427857283715
+    },
+    {
+      "type": "add",
+      "id": "8386991f1451d136",
+      "item": {
+        "type": "paragraph",
+        "id": "8386991f1451d136",
+        "text": "Our developers might describe our methods a \"post agile\" meaning that they know many agile practices and are quick to apply what they know will probably work in any given situation. I'm happy that this happens without any coaching from me."
+      },
+      "after": "0b28517052f2a6ab",
+      "date": 1427857909206
+    }
+  ]
+}

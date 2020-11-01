@@ -1,0 +1,274 @@
+{
+  "title": "Influence",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1e943c9e5f921256",
+      "text": "Which person and book influence you most? Why?"
+    },
+    {
+      "type": "paragraph",
+      "id": "94033af6851a688e",
+      "text": "The most influential books are ones that defined a space and showed how we as engineers, or just humans, create within it. These books transform, rather that just improve, our understanding of a practice."
+    },
+    {
+      "type": "paragraph",
+      "id": "4e04c127c1c501fd",
+      "text": "Dijkstra's Discipline of Programming showed how one could derive a program as one would derive a proof. One could expect to understand a program completely and be sure that it would work. I've found other mechanisms to gain such confidence but they are at root the same mental process. [http://www.amazon.com/Discipline-Programming-Edsger-W-Dijkstra/dp/013215871X amazon]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1df11f80277a0473",
+      "text": "Mead and Conway's Introduction to VLSI Systems similarly reduced computer design at the level of transistors to a practice with rules that could be mastered and would provide for unbounded creativity. Cost structures in the industry make the particular style unattractive economically but the physics hasn't changed and the chips would still compute. [http://www.amazon.com/Introduction-VLSI-Systems-Carver-Mead/dp/0201043580 amazon]"
+    },
+    {
+      "type": "paragraph",
+      "id": "aec9f055ab070429",
+      "text": "Lakoff and Johnson's Metaphors We Live By introduced this aspect of cognitive science which I found directly applicable to my effort to understand and improve the way we use objects. [http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468003 amazon]"
+    },
+    {
+      "type": "paragraph",
+      "id": "27d6fa8af734a406",
+      "text": "There were a few books on my mind while I was creating wiki. Although not as permanently profound they have had a strong influence on this particular work."
+    },
+    {
+      "type": "paragraph",
+      "id": "e10471841174ee58",
+      "text": "Leonard Koren's Wabi-Sabi for Artists, Designers, Poets & Philosophers showed to me the lasting value of the impermanent. [http://www.amazon.com/Wabi-Sabi-Artists-Designers-Poets-Philosophers/dp/0981484603 amazon]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d9779efe66fb702e",
+      "text": "Edwin Schlossberg's Interactive Excellence made clear the role of community in defining quality. [http://www.amazon.com/Interactive-Excellence-Developing-Standards-Contemporary/dp/0345423712 amazon]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Influence",
+        "story": []
+      },
+      "date": 1427810627815
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e943c9e5f921256"
+      },
+      "id": "1e943c9e5f921256",
+      "type": "add",
+      "date": 1427810629655
+    },
+    {
+      "type": "edit",
+      "id": "1e943c9e5f921256",
+      "item": {
+        "type": "paragraph",
+        "id": "1e943c9e5f921256",
+        "text": "Which person and book influence you most? Why?"
+      },
+      "date": 1427810633536
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4e04c127c1c501fd"
+      },
+      "id": "4e04c127c1c501fd",
+      "type": "add",
+      "after": "1e943c9e5f921256",
+      "date": 1428103622369
+    },
+    {
+      "type": "edit",
+      "id": "4e04c127c1c501fd",
+      "item": {
+        "type": "paragraph",
+        "id": "4e04c127c1c501fd",
+        "text": "Dijkstra's Discipline of Programming showed how one could derive a program as one would derive a proof. One could expect to understand a program completely and be sure that it would work. I've found other mechanisms to gain such confidence but they are at root the same mental process."
+      },
+      "date": 1428104070956
+    },
+    {
+      "type": "add",
+      "id": "1df11f80277a0473",
+      "item": {
+        "type": "paragraph",
+        "id": "1df11f80277a0473",
+        "text": "Mead and Conway's VLSI Design similarly reduced computer design at the level of transistors to a practice with rules that could be mastered and would provide for unbounded creativity. Cost structures in the industry make the particular style unattractive economically but the physics hasn't changed and the chips would still compute."
+      },
+      "after": "4e04c127c1c501fd",
+      "date": 1428104306669
+    },
+    {
+      "type": "edit",
+      "id": "4e04c127c1c501fd",
+      "item": {
+        "type": "paragraph",
+        "id": "4e04c127c1c501fd",
+        "text": "Dijkstra's Discipline of Programming showed how one could derive a program as one would derive a proof. One could expect to understand a program completely and be sure that it would work. I've found other mechanisms to gain such confidence but they are at root the same mental process. [http://www.amazon.com/Discipline-Programming-Edsger-W-Dijkstra/dp/013215871X amazon]"
+      },
+      "date": 1428104464982
+    },
+    {
+      "type": "edit",
+      "id": "1df11f80277a0473",
+      "item": {
+        "type": "paragraph",
+        "id": "1df11f80277a0473",
+        "text": "Mead and Conway's Introduction to VLSI Systems similarly reduced computer design at the level of transistors to a practice with rules that could be mastered and would provide for unbounded creativity. Cost structures in the industry make the particular style unattractive economically but the physics hasn't changed and the chips would still compute. [http://www.amazon.com/Introduction-VLSI-Systems-Carver-Mead/dp/0201043580 amazon]"
+      },
+      "date": 1428104552008
+    },
+    {
+      "type": "add",
+      "id": "27d6fa8af734a406",
+      "item": {
+        "type": "paragraph",
+        "id": "27d6fa8af734a406",
+        "text": "There were a few books on my mind while I was creating wiki. Although not as permanently profound they have had a strong influence on this particular work."
+      },
+      "after": "1df11f80277a0473",
+      "date": 1428104774827
+    },
+    {
+      "type": "add",
+      "id": "e10471841174ee58",
+      "item": {
+        "type": "paragraph",
+        "id": "e10471841174ee58",
+        "text": "Leonard Koren's Wabi-Sabi for Artists, Designers, Poets & Philosophers showed to me the lasting value of the impermanent. "
+      },
+      "after": "27d6fa8af734a406",
+      "date": 1428104833487
+    },
+    {
+      "type": "edit",
+      "id": "e10471841174ee58",
+      "item": {
+        "type": "paragraph",
+        "id": "e10471841174ee58",
+        "text": "Leonard Koren's Wabi-Sabi for Artists, Designers, Poets & Philosophers showed to me the lasting value of the impermanent. [http://www.amazon.com/Wabi-Sabi-Artists-Designers-Poets-Philosophers/dp/0981484603 amazon]"
+      },
+      "date": 1428104858049
+    },
+    {
+      "type": "add",
+      "id": "d9779efe66fb702e",
+      "item": {
+        "type": "paragraph",
+        "id": "d9779efe66fb702e",
+        "text": "Edwin Schlossberg's "
+      },
+      "after": "e10471841174ee58",
+      "date": 1428104995816
+    },
+    {
+      "type": "edit",
+      "id": "d9779efe66fb702e",
+      "item": {
+        "type": "paragraph",
+        "id": "d9779efe66fb702e",
+        "text": "Edwin Schlossberg's Interactive Excellence made clear the role of community in defining quality."
+      },
+      "date": 1428105042595
+    },
+    {
+      "type": "edit",
+      "id": "d9779efe66fb702e",
+      "item": {
+        "type": "paragraph",
+        "id": "d9779efe66fb702e",
+        "text": "Edwin Schlossberg's Interactive Excellence made clear the role of community in defining quality. [http://www.amazon.com/Interactive-Excellence-Developing-Standards-Contemporary/dp/0345423712 amazon]"
+      },
+      "date": 1428105065433
+    },
+    {
+      "type": "add",
+      "id": "aec9f055ab070429",
+      "item": {
+        "type": "paragraph",
+        "id": "aec9f055ab070429",
+        "text": "Lakoff and Johnson's Metaphors We Live By introduced me to this aspect of cognitive science which I found directly applicable to my computer work."
+      },
+      "after": "27d6fa8af734a406",
+      "date": 1428105223534
+    },
+    {
+      "type": "move",
+      "order": [
+        "1e943c9e5f921256",
+        "4e04c127c1c501fd",
+        "1df11f80277a0473",
+        "aec9f055ab070429",
+        "27d6fa8af734a406",
+        "e10471841174ee58",
+        "d9779efe66fb702e"
+      ],
+      "id": "aec9f055ab070429",
+      "date": 1428105226182
+    },
+    {
+      "type": "edit",
+      "id": "aec9f055ab070429",
+      "item": {
+        "type": "paragraph",
+        "id": "aec9f055ab070429",
+        "text": "Lakoff and Johnson's Metaphors We Live By introduced me to this aspect of cognitive science which I found directly applicable to my effort to understand and improve the way we use objects."
+      },
+      "date": 1428105324288
+    },
+    {
+      "type": "edit",
+      "id": "aec9f055ab070429",
+      "item": {
+        "type": "paragraph",
+        "id": "aec9f055ab070429",
+        "text": "Lakoff and Johnson's Metaphors We Live By introduced me to this aspect of cognitive science which I found directly applicable to my effort to understand and improve the way we use objects. [http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468003 amazon]"
+      },
+      "date": 1428105344809
+    },
+    {
+      "type": "add",
+      "id": "94033af6851a688e",
+      "item": {
+        "type": "paragraph",
+        "id": "94033af6851a688e",
+        "text": "The most influential books are ones that defined a space and showed how we as engineers, or just humans, create within it. "
+      },
+      "after": "1e943c9e5f921256",
+      "date": 1428105464167
+    },
+    {
+      "type": "edit",
+      "id": "aec9f055ab070429",
+      "item": {
+        "type": "paragraph",
+        "id": "aec9f055ab070429",
+        "text": "Lakoff and Johnson's Metaphors We Live By introduced this aspect of cognitive science which I found directly applicable to my effort to understand and improve the way we use objects. [http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468003 amazon]"
+      },
+      "date": 1428105509890
+    },
+    {
+      "type": "edit",
+      "id": "94033af6851a688e",
+      "item": {
+        "type": "paragraph",
+        "id": "94033af6851a688e",
+        "text": "The most influential books are ones that defined a space and showed how we as engineers, or just humans, create within it. These books transform, rather that just improve, our practice."
+      },
+      "date": 1428105578923
+    },
+    {
+      "type": "edit",
+      "id": "94033af6851a688e",
+      "item": {
+        "type": "paragraph",
+        "id": "94033af6851a688e",
+        "text": "The most influential books are ones that defined a space and showed how we as engineers, or just humans, create within it. These books transform, rather that just improve, our understanding of a practice."
+      },
+      "date": 1428105597107
+    }
+  ]
+}

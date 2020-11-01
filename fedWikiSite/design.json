@@ -1,0 +1,39 @@
+{
+  "title": "Design",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a85103108f2c225b",
+      "text": "Could you share some stories behind you initially design Wiki? What is the most difficult part and which part you put most of your effort in?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Design",
+        "story": []
+      },
+      "date": 1427810685735
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a85103108f2c225b"
+      },
+      "id": "a85103108f2c225b",
+      "type": "add",
+      "date": 1427810689075
+    },
+    {
+      "type": "edit",
+      "id": "a85103108f2c225b",
+      "item": {
+        "type": "paragraph",
+        "id": "a85103108f2c225b",
+        "text": "Could you share some stories behind you initially design Wiki? What is the most difficult part and which part you put most of your effort in?"
+      },
+      "date": 1427810694262
+    }
+  ]
+}
