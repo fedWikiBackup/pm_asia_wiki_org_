@@ -1,0 +1,346 @@
+{
+  "title": "Programmer Magazine Interview",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9cfc38559f62d40c",
+      "text": "Today is Wiki's 20th anniversary, I really hope could write your story in our Hall of Fame column which features coding and computer science masters monthly.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "97b9fa7d6ee47d36",
+      "text": "I wonder if you have time to accept an interview by email, and let our tens of thousands of magazine readers and millions of website audience know your personal career and insightful thoughts about technology?\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "23a9d58d3028e673",
+      "text": "My name is Lu Dongxiang, I'm an editor at Programmer Magazine in China. [http://lispython.com blog]"
+    },
+    {
+      "type": "pagefold",
+      "id": "bccd264857538544",
+      "text": "questions"
+    },
+    {
+      "type": "paragraph",
+      "id": "3dd3324f45c0fe18",
+      "text": "Where are you [[Focusing]] your efforts these days?"
+    },
+    {
+      "type": "paragraph",
+      "id": "dd6bd0819c6d4ce1",
+      "text": "Which [[Process]] you will use?"
+    },
+    {
+      "type": "paragraph",
+      "id": "c98fd54958d8ddfa",
+      "text": "What is the biggest [[Change]] in your thinking?"
+    },
+    {
+      "type": "paragraph",
+      "id": "2f522f68eda9c68e",
+      "text": "Which person and book [[Influence]] you most?"
+    },
+    {
+      "type": "paragraph",
+      "id": "81e62b666a1aba17",
+      "text": "What are the main [[Lessons]] you have learned?"
+    },
+    {
+      "type": "paragraph",
+      "id": "5ef160d41552606d",
+      "text": "Share stories of you initial [[Design]] for wiki."
+    },
+    {
+      "type": "paragraph",
+      "id": "4ce278ff91282de0",
+      "text": "What [[Principles]] you were following?"
+    },
+    {
+      "type": "paragraph",
+      "id": "93ab4310ff059580",
+      "text": "Would you do it [[Differently]]?"
+    },
+    {
+      "type": "paragraph",
+      "id": "708787736c489e7a",
+      "text": "Why do you think [[Migrating]] is important for wiki?"
+    },
+    {
+      "type": "paragraph",
+      "id": "6b8ac786cbc1b75b",
+      "text": "What [[Difficulties]] do people have with federated wiki?"
+    },
+    {
+      "type": "paragraph",
+      "id": "49d9ea8b40a765bc",
+      "text": "Do you see myths or [[Misunderstandings]] about Wiki?"
+    },
+    {
+      "type": "pagefold",
+      "id": "4e7cf5a266082b24",
+      "text": "."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Programmer Magazine Interview",
+        "story": []
+      },
+      "date": 1427806884808
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9cfc38559f62d40c"
+      },
+      "id": "9cfc38559f62d40c",
+      "type": "add",
+      "date": 1427806886868
+    },
+    {
+      "type": "edit",
+      "id": "9cfc38559f62d40c",
+      "item": {
+        "type": "paragraph",
+        "id": "9cfc38559f62d40c",
+        "text": "Today is Wiki's 20th anniversary, I really hope could write your story in our Hall of Fame column which features coding and computer science masters monthly.\n\n"
+      },
+      "date": 1427807033708
+    },
+    {
+      "type": "add",
+      "id": "97b9fa7d6ee47d36",
+      "item": {
+        "type": "paragraph",
+        "id": "97b9fa7d6ee47d36",
+        "text": "I wonder if you have time to accept an interview by email, and let our tens of thousands of magazine readers and millions of website audience know your personal career and insightful thoughts about technology?\n"
+      },
+      "after": "9cfc38559f62d40c",
+      "date": 1427807043684
+    },
+    {
+      "type": "add",
+      "id": "23a9d58d3028e673",
+      "item": {
+        "type": "paragraph",
+        "id": "23a9d58d3028e673",
+        "text": "Lu Dongxiang.\nProgrammer Magazine, the most-read developers' media in China"
+      },
+      "after": "97b9fa7d6ee47d36",
+      "date": 1427807137765
+    },
+    {
+      "type": "edit",
+      "id": "23a9d58d3028e673",
+      "item": {
+        "type": "paragraph",
+        "id": "23a9d58d3028e673",
+        "text": "My name is Lu Dongxiang, I'm an editor at Programmer Magazine in China. "
+      },
+      "date": 1427807177954
+    },
+    {
+      "type": "edit",
+      "id": "23a9d58d3028e673",
+      "item": {
+        "type": "paragraph",
+        "id": "23a9d58d3028e673",
+        "text": "My name is Lu Dongxiang, I'm an editor at Programmer Magazine in China. [http://lispython.com blog]"
+      },
+      "date": 1427807193518
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bccd264857538544"
+      },
+      "id": "bccd264857538544",
+      "type": "add",
+      "after": "23a9d58d3028e673",
+      "date": 1427807213301
+    },
+    {
+      "type": "edit",
+      "id": "bccd264857538544",
+      "item": {
+        "type": "pagefold",
+        "id": "bccd264857538544",
+        "text": "questions"
+      },
+      "date": 1427807224359
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3dd3324f45c0fe18"
+      },
+      "id": "3dd3324f45c0fe18",
+      "type": "add",
+      "after": "bccd264857538544",
+      "date": 1427807282912
+    },
+    {
+      "type": "edit",
+      "id": "3dd3324f45c0fe18",
+      "item": {
+        "type": "paragraph",
+        "id": "3dd3324f45c0fe18",
+        "text": "Where are you [[Focusing]] your efforts these days?"
+      },
+      "date": 1427807301527
+    },
+    {
+      "type": "add",
+      "id": "dd6bd0819c6d4ce1",
+      "item": {
+        "type": "paragraph",
+        "id": "dd6bd0819c6d4ce1",
+        "text": "Which [[Process]] you will use?"
+      },
+      "after": "3dd3324f45c0fe18",
+      "date": 1427808994135
+    },
+    {
+      "type": "add",
+      "id": "c98fd54958d8ddfa",
+      "item": {
+        "type": "paragraph",
+        "id": "c98fd54958d8ddfa",
+        "text": "What is the biggest [[Change]] in your thinking?"
+      },
+      "after": "dd6bd0819c6d4ce1",
+      "date": 1427809327721
+    },
+    {
+      "type": "add",
+      "id": "2f522f68eda9c68e",
+      "item": {
+        "type": "paragraph",
+        "id": "2f522f68eda9c68e",
+        "text": "Which person and book [[Influence]] you most?"
+      },
+      "after": "c98fd54958d8ddfa",
+      "date": 1427809456315
+    },
+    {
+      "type": "add",
+      "id": "81e62b666a1aba17",
+      "item": {
+        "type": "paragraph",
+        "id": "81e62b666a1aba17",
+        "text": "What are the main [[Lessons]] you have learned"
+      },
+      "after": "2f522f68eda9c68e",
+      "date": 1427809495549
+    },
+    {
+      "type": "edit",
+      "id": "81e62b666a1aba17",
+      "item": {
+        "type": "paragraph",
+        "id": "81e62b666a1aba17",
+        "text": "What are the main [[Lessons]] you have learned?"
+      },
+      "date": 1427809573872
+    },
+    {
+      "type": "add",
+      "id": "5ef160d41552606d",
+      "item": {
+        "type": "paragraph",
+        "id": "5ef160d41552606d",
+        "text": "Share stories of you initial [[Design]]."
+      },
+      "after": "81e62b666a1aba17",
+      "date": 1427809630768
+    },
+    {
+      "type": "edit",
+      "id": "5ef160d41552606d",
+      "item": {
+        "type": "paragraph",
+        "id": "5ef160d41552606d",
+        "text": "Share stories of you initial [[Design]] for wiki."
+      },
+      "date": 1427809645829
+    },
+    {
+      "type": "add",
+      "id": "4ce278ff91282de0",
+      "item": {
+        "type": "paragraph",
+        "id": "4ce278ff91282de0",
+        "text": "What [[Principles]] you were following?"
+      },
+      "after": "5ef160d41552606d",
+      "date": 1427809728888
+    },
+    {
+      "type": "add",
+      "id": "93ab4310ff059580",
+      "item": {
+        "type": "paragraph",
+        "id": "93ab4310ff059580",
+        "text": "Would you do it [[Differently]]?"
+      },
+      "after": "4ce278ff91282de0",
+      "date": 1427810131060
+    },
+    {
+      "type": "add",
+      "id": "708787736c489e7a",
+      "item": {
+        "type": "paragraph",
+        "id": "708787736c489e7a",
+        "text": "Why do you think [[Migrating]] is important for wiki?"
+      },
+      "after": "93ab4310ff059580",
+      "date": 1427810285080
+    },
+    {
+      "type": "add",
+      "id": "6b8ac786cbc1b75b",
+      "item": {
+        "type": "paragraph",
+        "id": "6b8ac786cbc1b75b",
+        "text": "What [[Difficulties]] do people have with federated wiki?"
+      },
+      "after": "708787736c489e7a",
+      "date": 1427810382399
+    },
+    {
+      "type": "add",
+      "id": "49d9ea8b40a765bc",
+      "item": {
+        "type": "paragraph",
+        "id": "49d9ea8b40a765bc",
+        "text": "Do you see myths or [[Misunderstandings]] about Wiki?"
+      },
+      "after": "6b8ac786cbc1b75b",
+      "date": 1427810511748
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4e7cf5a266082b24"
+      },
+      "id": "4e7cf5a266082b24",
+      "type": "add",
+      "after": "49d9ea8b40a765bc",
+      "date": 1427812550636
+    },
+    {
+      "type": "edit",
+      "id": "4e7cf5a266082b24",
+      "item": {
+        "type": "pagefold",
+        "id": "4e7cf5a266082b24",
+        "text": "."
+      },
+      "date": 1427812554766
+    }
+  ]
+}
